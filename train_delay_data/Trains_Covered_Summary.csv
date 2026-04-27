@@ -1,0 +1,115 @@
+﻿S.No,Train_Number,Train_Name,Train_Type,Train_Source,Train_Destination,Train_Total_Stops,Route_Name,Delay_Risk_Score,Risk_Category,Passenger_Reliability_Index,Journey_Predictability_Pct,Total_Records
+1,12001,12001),Express,Rani Kamlapati,New Delhi,11,Rani Kamlapati to New Delhi,42.6,Medium Risk,5.7,63.0,154
+2,12002,12002),Express,New Delhi,Rani Kamlapati,11,New Delhi to Rani Kamlapati,44.4,Medium Risk,5.6,61.7,154
+3,12003,12003),Express,Lucknow Jn,New Delhi,9,Lucknow Jn to New Delhi,42.6,Medium Risk,5.7,57.9,126
+4,12004,12004),Express,New Delhi,Lucknow Jn,9,New Delhi to Lucknow Jn,42.9,Medium Risk,5.7,59.5,126
+5,12005,12005),Express,New Delhi,Kalka,6,New Delhi to Kalka,43.6,Medium Risk,5.6,72.6,84
+6,12006,12006),Express,Kalka,New Delhi,6,Kalka to New Delhi,35.3,Medium Risk,6.5,69.0,84
+7,12007,12007),Express,Mgr Chennai Central,Mysore Jn,4,Mgr Chennai Central to Mysore Jn,37.7,Medium Risk,6.2,71.4,56
+8,12008,12008),Express,Mysore Jn,Mgr Chennai Central,4,Mysore Jn to Mgr Chennai Central,32.2,Medium Risk,6.8,71.4,56
+9,12009,12009),Express,Mumbai Central,Ahmedabad Jn,9,Mumbai Central to Ahmedabad Jn,42.6,Medium Risk,5.7,59.5,126
+10,12010,12010),Express,Ahmedabad Jn,Mumbai Central,9,Ahmedabad Jn to Mumbai Central,46.1,Medium Risk,5.4,58.7,126
+11,12011,12011),Express,New Delhi,Kalka,7,New Delhi to Kalka,48.8,Medium Risk,5.1,57.1,98
+12,12012,12012),Express,Kalka,New Delhi,7,Kalka to New Delhi,43.0,Medium Risk,5.7,73.5,98
+13,12013,12013),Express,New Delhi,Amritsar Jn,8,New Delhi to Amritsar Jn,42.5,Medium Risk,5.8,58.0,112
+14,12014,12014),Express,Amritsar Jn,New Delhi,8,Amritsar Jn to New Delhi,39.6,Medium Risk,6.0,65.2,112
+15,12017,12017),Express,New Delhi,Dehradun,8,New Delhi to Dehradun,41.8,Medium Risk,5.8,66.1,112
+16,12018,12018),Express,Dehradun,New Delhi,8,Dehradun to New Delhi,43.1,Medium Risk,5.7,58.9,112
+17,12019,12019),Express,Howrah Jn,Ranchi,9,Howrah Jn to Ranchi,45.3,Medium Risk,5.5,57.1,126
+18,12020,12020),Express,Ranchi,Howrah Jn,9,Ranchi to Howrah Jn,41.0,Medium Risk,5.9,65.1,126
+19,12051,12051),Express,Mumbai Csmt,Madgaon (Goa),11,Mumbai Csmt to Madgaon (Goa),37.2,Medium Risk,6.3,60.4,154
+20,12052,12052),Express,Madgaon (Goa),Mumbai Csmt,11,Madgaon (Goa) to Mumbai Csmt,38.5,Medium Risk,6.2,58.4,154
+21,12053,12053),Express,Haridwar Jn,Amritsar Jn,11,Haridwar Jn to Amritsar Jn,43.2,Medium Risk,5.7,59.7,154
+22,12054,12054),Express,Amritsar Jn,Haridwar Jn,11,Amritsar Jn to Haridwar Jn,40.6,Medium Risk,5.9,64.9,154
+23,12055,12055),Express,New Delhi,Dehradun,9,New Delhi to Dehradun,39.3,Medium Risk,6.1,69.8,126
+24,12056,12056),Express,Dehradun,New Delhi,10,Dehradun to New Delhi,45.9,Medium Risk,5.4,61.4,140
+25,12137,12137),Express,Mumbai Csmt,Firozpur Cant,54,Mumbai Csmt to Firozpur Cant,37.3,Medium Risk,6.3,56.7,756
+26,12138,12138),Express,Firozpur Cant,Mumbai Csmt,52,Firozpur Cant to Mumbai Csmt,35.1,Medium Risk,6.5,58.4,728
+27,12139,12139),Express,Mumbai Csmt,Nagpur,28,Mumbai Csmt to Nagpur,41.0,Medium Risk,5.9,55.1,392
+28,12140,12140),Express,Nagpur,Mumbai Csmt,28,Nagpur to Mumbai Csmt,36.5,Medium Risk,6.4,55.4,392
+29,12141,12141),Express,Lokmanya Tilak Term,Patliputra,17,Lokmanya Tilak Term to Patliputra,36.4,Medium Risk,6.4,58.0,238
+30,12142,12142),Express,Patliputra,Lokmanya Tilak Term,16,Patliputra to Lokmanya Tilak Term,35.0,Medium Risk,6.5,62.1,224
+31,12143,12143),Express,Lokmanya Tilak Term,Sultanpur,14,Lokmanya Tilak Term to Sultanpur,40.1,Medium Risk,6.0,59.2,196
+32,12144,12144),Express,Sultanpur,Lokmanya Tilak Term,14,Sultanpur to Lokmanya Tilak Term,40.4,Medium Risk,6.0,58.7,196
+33,12145,12145),Express,Lokmanya Tilak Term,Puri,24,Lokmanya Tilak Term to Puri,34.8,Medium Risk,6.5,60.7,336
+34,12146,12146),Express,Puri,Lokmanya Tilak Term,24,Puri to Lokmanya Tilak Term,34.0,Medium Risk,6.6,59.2,336
+35,12201,12201),Express,Lokmanya Tilak Term,Thiruvananthapuram North (Kochuveli),24,Lokmanya Tilak Term to Thiruvananthapuram North (Kochuveli),39.3,Medium Risk,6.1,56.5,336
+36,12202,12202),Express,Thiruvananthapuram North (Kochuveli),Lokmanya Tilak Term,24,Thiruvananthapuram North (Kochuveli) to Lokmanya Tilak Term,39.3,Medium Risk,6.1,59.2,336
+37,12203,12203),Express,Saharsa Jn,Amritsar Jn,25,Saharsa Jn to Amritsar Jn,40.9,Medium Risk,5.9,57.1,350
+38,12204,12204),Express,Amritsar Jn,Saharsa Jn,25,Amritsar Jn to Saharsa Jn,33.2,Medium Risk,6.7,63.7,350
+39,12213,12213),Express,Yesvantpur Jn (Bengaluru),Delhi Sarai Rohilla,8,Yesvantpur Jn (Bengaluru) to Delhi Sarai Rohilla,31.4,Medium Risk,6.9,63.4,112
+40,12214,12214),Express,Delhi Sarai Rohilla,Yesvantpur Jn (Bengaluru),7,Delhi Sarai Rohilla to Yesvantpur Jn (Bengaluru),31.9,Medium Risk,6.8,60.2,98
+41,12215,12215),Express,Delhi Sarai Rohilla,Mumbai Bandra Terminus,21,Delhi Sarai Rohilla to Mumbai Bandra Terminus,43.9,Medium Risk,5.6,55.1,294
+42,12216,12216),Express,Mumbai Bandra Terminus,Delhi Sarai Rohilla,22,Mumbai Bandra Terminus to Delhi Sarai Rohilla,41.6,Medium Risk,5.8,56.5,308
+43,12221,12221),Express,Pune Jn,Howrah Jn,9,Pune Jn to Howrah Jn,38.7,Medium Risk,6.1,57.9,126
+44,12222,12222),Express,Howrah Jn,Pune Jn,9,Howrah Jn to Pune Jn,38.3,Medium Risk,6.2,59.5,126
+45,12223,12223),Express,Lokmanya Tilak Term,Ernakulam Jn,7,Lokmanya Tilak Term to Ernakulam Jn,36.3,Medium Risk,6.4,55.1,98
+46,12224,12224),Express,Ernakulam Jn,Lokmanya Tilak Term,7,Ernakulam Jn to Lokmanya Tilak Term,31.5,Medium Risk,6.8,65.3,98
+47,12259,12259),Express,Kolkata Sealdah,Bikaner Jn,12,Kolkata Sealdah to Bikaner Jn,41.1,Medium Risk,5.9,54.8,168
+48,12260,12260),Express,Bikaner Jn,Kolkata Sealdah,12,Bikaner Jn to Kolkata Sealdah,31.4,Medium Risk,6.9,69.0,168
+49,12261,12261),Express,Mumbai Csmt,Howrah Jn,9,Mumbai Csmt to Howrah Jn,36.5,Medium Risk,6.4,61.9,126
+50,12262,12262),Express,Howrah Jn,Mumbai Csmt,9,Howrah Jn to Mumbai Csmt,40.8,Medium Risk,5.9,57.1,126
+51,12269,12269),Express,Mgr Chennai Central,Delhi Hazrat Nizamuddin,8,Mgr Chennai Central to Delhi Hazrat Nizamuddin,38.0,Medium Risk,6.2,62.5,112
+52,12270,12270),Express,Delhi Hazrat Nizamuddin,Mgr Chennai Central,8,Delhi Hazrat Nizamuddin to Mgr Chennai Central,43.4,Medium Risk,5.7,55.4,112
+53,12301,12301),Express,Howrah Jn,New Delhi,9,Howrah Jn to New Delhi,40.1,Medium Risk,6.0,63.5,126
+54,12302,12302),Express,New Delhi,Howrah Jn,9,New Delhi to Howrah Jn,29.9,Low Risk,7.0,65.9,126
+55,12309,12309),Express,Rajendra Nagar Patna,New Delhi,7,Rajendra Nagar Patna to New Delhi,44.9,Medium Risk,5.5,57.1,98
+56,12310,12310),Express,New Delhi,Rajendra Nagar Patna,7,New Delhi to Rajendra Nagar Patna,38.0,Medium Risk,6.2,62.2,98
+57,12313,12313),Express,Kolkata Sealdah,New Delhi,8,Kolkata Sealdah to New Delhi,42.7,Medium Risk,5.7,58.9,112
+58,12314,12314),Express,New Delhi,Kolkata Sealdah,8,New Delhi to Kolkata Sealdah,31.0,Medium Risk,6.9,60.7,112
+59,12423,12423),Express,Dibrugarh,New Delhi,24,Dibrugarh to New Delhi,41.2,Medium Risk,5.9,51.8,336
+60,12424,12424),Express,New Delhi,Dibrugarh Town,24,New Delhi to Dibrugarh Town,37.0,Medium Risk,6.3,57.1,336
+61,12431,12431),Express,Trivandrum Central,Delhi Hazrat Nizamuddin,21,Trivandrum Central to Delhi Hazrat Nizamuddin,40.7,Medium Risk,5.9,52.0,294
+62,12432,12432),Express,Delhi Hazrat Nizamuddin,Trivandrum Central,21,Delhi Hazrat Nizamuddin to Trivandrum Central,39.0,Medium Risk,6.1,55.4,294
+63,12433,12433),Express,Mgr Chennai Central,Delhi Hazrat Nizamuddin,10,Mgr Chennai Central to Delhi Hazrat Nizamuddin,44.3,Medium Risk,5.6,51.4,140
+64,12434,12434),Express,Delhi Hazrat Nizamuddin,Mgr Chennai Central,10,Delhi Hazrat Nizamuddin to Mgr Chennai Central,40.4,Medium Risk,6.0,56.4,140
+65,12565,12565),Express,Darbhanga Jn,New Delhi,15,Darbhanga Jn to New Delhi,44.8,Medium Risk,5.5,60.0,210
+66,12566,12566),Express,New Delhi,Darbhanga Jn,15,New Delhi to Darbhanga Jn,40.1,Medium Risk,6.0,60.0,210
+67,12621,12621),Express,Mgr Chennai Central,New Delhi,13,Mgr Chennai Central to New Delhi,33.0,Medium Risk,6.7,63.7,182
+68,12622,12622),Express,New Delhi,Mgr Chennai Central,12,New Delhi to Mgr Chennai Central,31.9,Medium Risk,6.8,65.5,168
+69,12623,12623),Express,Mgr Chennai Central,Trivandrum Central,21,Mgr Chennai Central to Trivandrum Central,36.7,Medium Risk,6.3,61.2,294
+70,12624,12624),Express,Trivandrum Central,Mgr Chennai Central,22,Trivandrum Central to Mgr Chennai Central,42.6,Medium Risk,5.7,60.4,308
+71,12625,12625),Express,Trivandrum Central,New Delhi,43,Trivandrum Central to New Delhi,37.5,Medium Risk,6.2,59.1,602
+72,12626,12626),Express,New Delhi,Trivandrum Central,42,New Delhi to Trivandrum Central,37.9,Medium Risk,6.2,54.4,588
+73,12627,12627),Express,Ksr Bengaluru,New Delhi,35,Ksr Bengaluru to New Delhi,36.5,Medium Risk,6.4,58.2,490
+74,12628,12628),Express,New Delhi,Ksr Bengaluru,34,New Delhi to Ksr Bengaluru,39.2,Medium Risk,6.1,53.6,476
+75,12629,12629),Express,Yesvantpur Jn (Bengaluru),Delhi Hazrat Nizamuddin,15,Yesvantpur Jn (Bengaluru) to Delhi Hazrat Nizamuddin,38.0,Medium Risk,6.2,56.7,210
+76,12630,12630),Express,H Nizamuddin,Yesvantpur Jn (Bengaluru),16,H Nizamuddin to Yesvantpur Jn (Bengaluru),35.5,Medium Risk,6.4,61.6,224
+77,12633,12633),Express,Chennai Egmore,Kanyakumari,16,Chennai Egmore to Kanyakumari,43.0,Medium Risk,5.7,61.6,224
+78,12634,12634),Express,Kanyakumari,Chennai Egmore,19,Kanyakumari to Chennai Egmore,41.1,Medium Risk,5.9,59.4,266
+79,12635,12635),Express,Chennai Egmore,Madurai Jn,13,Chennai Egmore to Madurai Jn,43.4,Medium Risk,5.7,56.6,182
+80,12636,12636),Express,Madurai Jn,Chennai Egmore,14,Madurai Jn to Chennai Egmore,47.3,Medium Risk,5.3,56.1,196
+81,12637,12637),Express,Chennai Egmore,Madurai Jn,13,Chennai Egmore to Madurai Jn,32.7,Medium Risk,6.7,61.5,182
+82,12638,12638),Express,Madurai Jn,Chennai Egmore,14,Madurai Jn to Chennai Egmore,38.4,Medium Risk,6.2,54.6,196
+83,12639,12639),Express,Mgr Chennai Central,Ksr Bengaluru,13,Mgr Chennai Central to Ksr Bengaluru,47.1,Medium Risk,5.3,58.2,182
+84,12640,12640),Express,Ksr Bengaluru,Mgr Chennai Central,14,Ksr Bengaluru to Mgr Chennai Central,46.3,Medium Risk,5.4,57.7,196
+85,12649,12649),Express,Yesvantpur Jn (Bengaluru),Delhi Hazrat Nizamuddin,20,Yesvantpur Jn (Bengaluru) to Delhi Hazrat Nizamuddin,39.5,Medium Risk,6.0,58.9,280
+86,12650,12650),Express,Delhi Hazrat Nizamuddin,Yesvantpur Jn (Bengaluru),20,H Nizamuddin to Yesvantpur Jn (Bengaluru),37.5,Medium Risk,6.2,59.6,280
+87,12651,12651),Express,Madurai Jn,Delhi Hazrat Nizamuddin,16,Madurai Jn to Delhi Hazrat Nizamuddin,36.9,Medium Risk,6.3,59.4,224
+88,12652,12652),Express,Delhi Hazrat Nizamuddin,Madurai Jn,16,Delhi Hazrat Nizamuddin to Madurai Jn,34.2,Medium Risk,6.6,61.2,224
+89,12801,12801),Express,Puri,Anand Vihar Trm,33,Puri to Anand Vihar Trm,35.5,Medium Risk,6.4,56.3,462
+90,12802,12802),Express,Anand Vihar Trm,Puri,32,Anand Vihar Trm to Puri,36.8,Medium Risk,6.3,54.5,448
+91,12951,12951),Express,Mumbai Central,New Delhi,8,Mumbai Central to New Delhi,38.4,Medium Risk,6.2,69.6,112
+92,12952,12952),Express,New Delhi,Mumbai Central,8,New Delhi to Mumbai Central,30.2,Medium Risk,7.0,65.2,112
+93,12953,12953),Express,Mumbai Central,Delhi Hazrat Nizamuddin,13,Mumbai Central to Delhi Hazrat Nizamuddin,42.6,Medium Risk,5.7,58.2,182
+94,12954,12954),Express,Delhi Hazrat Nizamuddin,Mumbai Central,12,Delhi Hazrat Nizamuddin to Mumbai Central,42.4,Medium Risk,5.8,56.0,168
+95,12957,12957),Express,Sabarmati Bg,New Delhi,10,Sabarmati Bg to New Delhi,37.3,Medium Risk,6.3,57.9,140
+96,12958,12958),Express,New Delhi,Sabarmati Bg,10,New Delhi to Sabarmati Bg,39.3,Medium Risk,6.1,60.0,140
+97,22119,22119),Express,Mumbai Csmt,Madgaon (Goa),9,Mumbai Csmt to Madgaon (Goa),41.0,Medium Risk,5.9,59.5,126
+98,22120,22120),Express,Madgaon (Goa),Mumbai Csmt,9,Madgaon (Goa) to Mumbai Csmt,45.3,Medium Risk,5.5,58.7,126
+99,22121,22121),Express,Lokmanyatilak T,Lucknow,11,Lokmanyatilak T to Lucknow,40.8,Medium Risk,5.9,61.0,154
+100,22122,22122),Express,Lucknow,Lokmanya Tilak Term,11,Lucknow to Lokmanya Tilak Term,40.7,Medium Risk,5.9,53.2,154
+101,22125,22125),Express,Nagpur,Amritsar Jn,11,Nagpur to Amritsar Jn,36.3,Medium Risk,6.4,57.1,154
+102,22126,22126),Express,Amritsar Jn,Nagpur,11,Amritsar Jn to Nagpur,36.7,Medium Risk,6.3,63.0,154
+103,22435,22435),Express,Varanasi Jn,New Delhi,4,Varanasi Jn to New Delhi,38.7,Medium Risk,6.1,62.5,56
+104,22436,22436),Express,New Delhi,Varanasi Jn,4,New Delhi to Varanasi Jn,30.2,Medium Risk,7.0,78.6,56
+105,22439,22439),Express,New Delhi,S M V D Katra,6,New Delhi to S M V D Katra,39.5,Medium Risk,6.0,65.5,84
+106,22440,22440),Express,S M V D Katra,New Delhi,6,S M V D Katra to New Delhi,45.9,Medium Risk,5.4,58.3,84
+107,22441,22441),Express,Chitrakutdham Karwi,Kanpur Central,12,Chitrakutdham Karwi to Kanpur Central,54.2,Medium Risk,4.6,50.0,168
+108,22442,22442),Express,Kanpur Central,Chitrakutdham Karwi,12,Kanpur Central to Chitrakutdham Karwi,46.0,Medium Risk,5.4,64.3,168
+109,22443,22443),Express,Kanpur Central,Bandra Terminus,22,Kanpur Central to Bandra Terminus,43.1,Medium Risk,5.7,53.2,308
+110,22444,22444),Express,Mumbai Bandra Terminus,Kanpur Central,22,Mumbai Bandra Terminus to Kanpur Central,38.6,Medium Risk,6.1,59.4,308
+111,22445,22445),Express,Kanpur Central,Amritsar Jn,14,Kanpur Central to Amritsar Jn,39.2,Medium Risk,6.1,55.1,196
+112,22446,22446),Express,Amritsar Jn,Kanpur Central,14,Amritsar Jn to Kanpur Central,42.2,Medium Risk,5.8,54.6,196
+113,22447,22447),Express,New Delhi,Amb Andaura,6,New Delhi to Amb Andaura,38.9,Medium Risk,6.1,72.6,84
+114,22448,22448),Express,Amb Andaura,New Delhi,6,Amb Andaura to New Delhi,29.6,Low Risk,7.0,64.3,84
